@@ -16,7 +16,8 @@ pip install notebook
 
 ## Usage
 
-Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
+Congratulations, you have installed Jupyter Notebook! 
+To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
 ```bash
 jupyter notebook
