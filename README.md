@@ -1,6 +1,8 @@
 # ML_for_IDS
 
-This project involves training supervised machine learning models to create an **Intrusion Detection System**, with more than 90% accuracy.
+* This project involves training supervised machine learning models to create an **Intrusion Detection System**
+
+* More than 90% accuracy achieved throughout, for each model.
 
 ## Prerequisite
 
