@@ -4,6 +4,8 @@
 
 * More than 90% accuracy achieved throughout, for each model.
 
+* Dataset used: [KDD-99 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+
 ## Prerequisite
 
 While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the JupyterLab or the classic Jupyter Notebook.
