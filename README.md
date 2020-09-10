@@ -2,9 +2,11 @@
 
 * This project involves training supervised machine learning models to create an **Intrusion Detection System**
 
-* More than 90% accuracy achieved throughout, for each model.
+* More than 90% accuracy achieved throughout, for each model
 
 * Dataset used: [KDD-99 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+
+* Machine Learning Models used: Naive Bayes, SVM and Logistic Regression
 
 ## Prerequisite
 
@@ -12,7 +14,7 @@ While Jupyter runs code in many programming languages, Python is a requirement (
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install jupyter.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install jupyter
 
 ```bash
 pip install notebook
